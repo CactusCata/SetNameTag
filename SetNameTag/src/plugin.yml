@@ -1,0 +1,9 @@
+main: com.gmail.cactuscata.setnametag.Main
+author: CactusCata
+version: 1.0.0
+name: SetNameTag
+commands:
+    settag:
+        description: Permet de mettre des suffix & des prefix aux joueurs
+        usage: /<command> [setprefix || setsuffix] [player]
+        permission: setnametag.settag
